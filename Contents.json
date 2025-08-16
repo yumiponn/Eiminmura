@@ -2,6 +2,10 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "c556fc2bd185c01846b314828466678e",
 				"Address" : "ffQo8c_Main.png",
@@ -17,10 +21,6 @@
 				"Address" : "ffQo8c_ClimbDown.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "エイミ",
@@ -30,6 +30,10 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"Bounce" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "257b220bcf38589a6c829765937a3c5a",
 				"Address" : "2uZPVfEtc_Main.png",
@@ -50,10 +54,6 @@
 				"Address" : "2uZPVfEtc_ClimbDown.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : True,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "エイミ新衣装",
@@ -63,6 +63,10 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"Bounce" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "dce63492e35bf03af0a82cfd992f8282",
 				"Address" : "IJwy_Main.png",
@@ -78,10 +82,6 @@
 				"Address" : "IJwy_ClimbDown.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : True,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "お茶",
@@ -91,6 +91,10 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"Bounce" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "ea72c0c7822d7679c4c0a9f69574485b",
 				"Address" : "woQC1Nir_Main.png",
@@ -106,19 +110,19 @@
 				"Address" : "woQC1Nir_ClimbDown.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : True,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ほすとch",
 			"Author" : "弓ぽん",
-			"Package" : "None",
+			"Package" : "Eimin-hat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "6dd5d7927f967ea7bc9c960adec4c896",
 				"Address" : "GRdd28SI_Main.png",
@@ -134,19 +138,19 @@
 				"Address" : "GRdd28SI_ClimbDown.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "みずもちくん",
 			"Author" : "弓ぽん",
-			"Package" : "None",
+			"Package" : "Eimin-hat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "cedc72562c1a8ec94fafe1dce51c4ad5",
 				"Address" : "qzhV6c_Main.png",
@@ -162,15 +166,11 @@
 				"Address" : "qzhV6c_ClimbDown.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "いりむ",
 			"Author" : "弓ぽん",
-			"Package" : "None",
+			"Package" : "Eimin-hat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
