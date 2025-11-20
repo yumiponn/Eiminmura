@@ -2,11 +2,6 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"ClimbDown" : {
-				"Hash" : "a3622fb6f979ccbf1ff0e56715bd322b",
-				"Address" : "ffQo8c_ClimbDown.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "c556fc2bd185c01846b314828466678e",
 				"Address" : "ffQo8c_Main.png",
@@ -15,6 +10,11 @@
 			"Climb" : {
 				"Hash" : "a3622fb6f979ccbf1ff0e56715bd322b",
 				"Address" : "ffQo8c_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "a3622fb6f979ccbf1ff0e56715bd322b",
+				"Address" : "ffQo8c_ClimbDown.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -30,11 +30,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"ClimbDown" : {
-				"Hash" : "1c0e12050bef6aa5c6b9134d61f47c5d",
-				"Address" : "2uZPVfEtc_ClimbDown.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "257b220bcf38589a6c829765937a3c5a",
 				"Address" : "2uZPVfEtc_Main.png",
@@ -50,6 +45,11 @@
 				"Address" : "2uZPVfEtc_ClimbFlip.png",
 				"ExIsFront" : False
 			},
+			"ClimbDown" : {
+				"Hash" : "1c0e12050bef6aa5c6b9134d61f47c5d",
+				"Address" : "2uZPVfEtc_ClimbDown.png",
+				"ExIsFront" : False
+			},
 			"Bounce" : True,
 			"Adaptive" : False,
 			"HideHands" : False,
@@ -63,11 +63,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"ClimbDown" : {
-				"Hash" : "ed451ca5e870c59b1ed1be02203f09fc",
-				"Address" : "IJwy_ClimbDown.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "dce63492e35bf03af0a82cfd992f8282",
 				"Address" : "IJwy_Main.png",
@@ -76,6 +71,11 @@
 			"Climb" : {
 				"Hash" : "ed451ca5e870c59b1ed1be02203f09fc",
 				"Address" : "IJwy_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "ed451ca5e870c59b1ed1be02203f09fc",
+				"Address" : "IJwy_ClimbDown.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : True,
@@ -91,11 +91,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"ClimbDown" : {
-				"Hash" : "ab113bf704f83fd6b793749707d1225b",
-				"Address" : "woQC1Nir_ClimbDown.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "ea72c0c7822d7679c4c0a9f69574485b",
 				"Address" : "woQC1Nir_Main.png",
@@ -104,6 +99,11 @@
 			"Climb" : {
 				"Hash" : "ab113bf704f83fd6b793749707d1225b",
 				"Address" : "woQC1Nir_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "ab113bf704f83fd6b793749707d1225b",
+				"Address" : "woQC1Nir_ClimbDown.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : True,
@@ -119,11 +119,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"ClimbDown" : {
-				"Hash" : "e88f4bf7fca5978619c22c64e58efae6",
-				"Address" : "GRdd28SI_ClimbDown.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "6dd5d7927f967ea7bc9c960adec4c896",
 				"Address" : "GRdd28SI_Main.png",
@@ -132,6 +127,11 @@
 			"Climb" : {
 				"Hash" : "e88f4bf7fca5978619c22c64e58efae6",
 				"Address" : "GRdd28SI_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "e88f4bf7fca5978619c22c64e58efae6",
+				"Address" : "GRdd28SI_ClimbDown.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -147,11 +147,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"ClimbDown" : {
-				"Hash" : "c8b3d2fc5409b34792c2f830f51dad52",
-				"Address" : "qzhV6c_ClimbDown.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "cedc72562c1a8ec94fafe1dce51c4ad5",
 				"Address" : "qzhV6c_Main.png",
@@ -160,6 +155,11 @@
 			"Climb" : {
 				"Hash" : "c8b3d2fc5409b34792c2f830f51dad52",
 				"Address" : "qzhV6c_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "c8b3d2fc5409b34792c2f830f51dad52",
+				"Address" : "qzhV6c_ClimbDown.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -175,11 +175,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"ClimbDown" : {
-				"Hash" : "3da87e75866cf0c0734df2e7050f84a9",
-				"Address" : "GZqow96q_ClimbDown.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "9dac92d3d58f96e4c599db2fb79c3b67",
 				"Address" : "GZqow96q_Main.png",
@@ -188,6 +183,11 @@
 			"Climb" : {
 				"Hash" : "3da87e75866cf0c0734df2e7050f84a9",
 				"Address" : "GZqow96q_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "3da87e75866cf0c0734df2e7050f84a9",
+				"Address" : "GZqow96q_ClimbDown.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -203,11 +203,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"ClimbDown" : {
-				"Hash" : "3fcc3fb66e68cd1c8c62cb34b52635df",
-				"Address" : "UJtZkAw_ClimbDown.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "71a89b7b7481d8477e6e1f626956ac53",
 				"Address" : "UJtZkAw_Main.png",
@@ -216,6 +211,11 @@
 			"Climb" : {
 				"Hash" : "3fcc3fb66e68cd1c8c62cb34b52635df",
 				"Address" : "UJtZkAw_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "3fcc3fb66e68cd1c8c62cb34b52635df",
+				"Address" : "UJtZkAw_ClimbDown.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : True,
@@ -231,11 +231,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"ClimbDown" : {
-				"Hash" : "52e340bf7a3a610abe3339d83ef0f3b0",
-				"Address" : "JoK1Row_ClimbDown.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "f8e2534389aeee0d2079580208822926",
 				"Address" : "JoK1Row_Main.png",
@@ -244,6 +239,11 @@
 			"Climb" : {
 				"Hash" : "52e340bf7a3a610abe3339d83ef0f3b0",
 				"Address" : "JoK1Row_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "52e340bf7a3a610abe3339d83ef0f3b0",
+				"Address" : "JoK1Row_ClimbDown.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : True,
@@ -259,11 +259,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"ClimbDown" : {
-				"Hash" : "83c6256ec2f1d3a98ffd47db790a7ce6",
-				"Address" : "HGf2Kqw_ClimbDown.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "500bbbe7d45b6d9f32e65bb73f934e51",
 				"Address" : "HGf2Kqw_Main.png",
@@ -274,6 +269,11 @@
 				"Address" : "HGf2Kqw_Climb.png",
 				"ExIsFront" : False
 			},
+			"ClimbDown" : {
+				"Hash" : "83c6256ec2f1d3a98ffd47db790a7ce6",
+				"Address" : "HGf2Kqw_ClimbDown.png",
+				"ExIsFront" : False
+			},
 			"Bounce" : True,
 			"Adaptive" : False,
 			"HideHands" : False,
@@ -281,6 +281,98 @@
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "とまこぶ",
+			"Author" : "弓ぽん",
+			"Package" : "Eimin-hat",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f518e0d6c2ed33526576a3c6c941c4fa",
+				"Address" : "Z3h1cFw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "b56859bc9f4247784ee2c26b65db5615",
+				"Address" : "Z3h1cFw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "リぺネオ",
+			"Author" : "弓ぽん",
+			"Package" : "Eimin-hat",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b8e9a8e5f9455b7b3cf6e987376f697a",
+				"Address" : "MyMxxtw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "3b1acf537bff6b3c49e78eb77f8494ca",
+				"Address" : "MyMxxtw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "めるまま",
+			"Author" : "弓ぽん",
+			"Package" : "Eimin-hat",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b405a7cc8e2e8ae592e46a45119d9a2e",
+				"Address" : "fTNQctw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "328dce18732b6fe97ac668f376661c97",
+				"Address" : "fTNQctw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "まりにあ",
+			"Author" : "弓ぽん",
+			"Package" : "Eimin-hat",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "8b868ab4eab35d106e87e05c801f5848",
+				"Address" : "zZ7yyI1Nb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "0869fc9657b1a542f0fed5eb30103515",
+				"Address" : "zZ7yyI1Nb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ララカ新衣装",
 			"Author" : "弓ぽん",
 			"Package" : "Eimin-hat",
 			"IsUnlockable" : False,
